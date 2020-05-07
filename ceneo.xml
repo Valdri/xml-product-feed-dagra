@@ -30,9 +30,9 @@
       <a name="Producent">
         <![CDATA[Dagra]]>
       </a>
-     <a name="EAN">
-        <![CDATA[5903714967001]]>
-      </a>
+     <!--<a name="EAN">
+        <![CDATA[xxxxxx]]>
+      </a>-->
       <a name="Kod producenta">
         <![CDATA[B01]]>
       </a>
@@ -79,9 +79,9 @@
       <a name="Producent">
         <![CDATA[Dagra]]>
       </a>
-     <a name="EAN">
-        <![CDATA[5903714967018]]>
-      </a>
+     <!--<a name="EAN">
+        <![CDATA[xxxxxx]]>
+      </a>-->
       <a name="Kod producenta">
         <![CDATA[B02]]>
       </a>
