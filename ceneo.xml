@@ -411,7 +411,7 @@
       </a>
     </attrs>
   </o>
-  <!--<o id="9" url="https://dagra.pl/sklep/fotel-tullsta/" price="239" avail="3" weight="2" basket="0">
+  <o id="9" url="https://dagra.pl/sklep/fotel-tullsta/" price="239" avail="3" weight="2" basket="0">
     <cat>
       <![CDATA[Dom i wnętrze/Tekstylia do domu/Pokrowce na meble]]>
     </cat>
@@ -460,6 +460,6 @@
         <![CDATA[Szary]]>
       </a>
     </attrs>
-  </o>-->
+  </o>
 
 </offers>
