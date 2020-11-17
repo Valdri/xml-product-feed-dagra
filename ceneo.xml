@@ -461,5 +461,54 @@
       </a>
     </attrs>
   </o>
+  <o id="10" url="https://dagra.pl/sklep/fotel-muren/" price="349" avail="3" weight="2" basket="0">
+    <cat>
+      <![CDATA[Dom i wnętrze/Tekstylia do domu/Pokrowce na meble]]>
+    </cat>
+    <name>
+      <![CDATA[Pokrowiec na fotel Muren]]>
+    </name>
+    <imgs>
+      <main url="https://dagra.pl/wp-content/uploads/E12_A01-1-1900x1900.jpg"/>
+      <i url="https://dagra.pl/wp-content/uploads/E12_A01-2-1900x1900.jpg"/>
+      <i url="https://dagra.pl/wp-content/uploads/E12_A01-3-1900x1900.jpg"/>
+    </imgs>
+    <desc>
+      <![CDATA[<p><b>Dopasowany pod twoją sofę</b><br><br>
+      Idealnie układa się na sofie i jest wygodny w użytkowaniu, możesz łatwo go prać.</p>
+      <p><b>Dekoracyjne wypustki</b><br><br>
+      Pokrowiec jest starannie wykonany z dbałością o szczegóły, wzbogacony o dekoracyjne wypustki.<br>
+      Dzięki temu możesz cieszyć się znakomitym wyglądem.</p>
+      <p><b>Podwyższona wytrzymałość tkaniny</b><br><br>
+      Odporność na ścieranie została przetestowana pod kątem 90 000 cykli.<br>
+      15 000 cykli lub więcej jest odpowiednie dla mebli domowych do użytku codziennego.<br>
+      Wynik powyżej 30 000 cykli oznacza dobrą odporność na ścieranie.</p>
+      <p><b>Poduszki zapinane na zamek błyskawiczny</b><br><br>
+      Wysokiej jakości zamki polskiego producenta Viva-zip.<br>
+      Jakość poparta certyfikatem Oeko-Tex i testami wytrzymałościowymi.</p>
+      <p><b>Zamów już dziś pokrowiec i ciesz się nowym wyglądem swojej sofy …</b></p>
+      ]]>
+    </desc>
+    <attrs>
+      <a name="Producent">
+        <![CDATA[Dagra]]>
+      </a>
+      <a name="Kod producenta">
+        <![CDATA[E12]]>
+      </a>
+      <a name="Rodzaj">
+        <![CDATA[Pokrowce]]>
+      </a>
+      <a name="Przeznaczenie">
+        <![CDATA[Fotele]]>
+      </a>
+      <a name="Wzór">
+        <![CDATA[Bez wzoru]]>
+      </a>
+      <a name="Kolor">
+        <![CDATA[Szary]]>
+      </a>
+    </attrs>
+  </o>
 
 </offers>
