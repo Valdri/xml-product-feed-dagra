@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
 
-  <o id="1" url="https://dagra.eu/pl/product/cover-beddinge-striped-pattern/" price="229" avail="3" weight="3" basket="0">
+  <o id="1" url="https://dagra.eu/pl/product/cover-beddinge-striped-pattern/" price="249" avail="3" weight="3" basket="0">
     <cat>
       <![CDATA[Pokrowce na sofy i fotele]]>
     </cat>
@@ -50,7 +50,7 @@
       </a>
     </attrs>
   </o>
-  <o id="2" url="https://dagra.eu/pl/product/cover-beddinge-diamonds-pattern/" price="229" avail="3" weight="3" basket="0">
+  <o id="2" url="https://dagra.eu/pl/product/cover-beddinge-diamonds-pattern/" price="249" avail="3" weight="3" basket="0">
     <cat>
       <![CDATA[Pokrowce na sofy i fotele]]>
     </cat>
